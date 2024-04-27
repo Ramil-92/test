@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/test-pizza/static/css/main.f537bd3c.css",
+    "main.js": "/test-pizza/static/js/main.340c4ae3.js",
+    "static/media/proximanova_regular.ttf": "/test-pizza/static/media/proximanova_regular.8181ca4b7c2d1189d78a.ttf",
+    "static/media/proximanova_extrabold.otf": "/test-pizza/static/media/proximanova_extrabold.4b4dcc64004a8654a484.otf",
+    "static/media/Pizza3.png": "/test-pizza/static/media/Pizza3.c8e21bf473faab0dcd6d.png",
+    "static/media/Pizza4.png": "/test-pizza/static/media/Pizza4.1593be9065996e7cce30.png",
+    "static/media/Pizza1.png": "/test-pizza/static/media/Pizza1.7081b0a5ffafe0371655.png",
+    "static/media/Pizza2.png": "/test-pizza/static/media/Pizza2.39b2df01baf94e6e26bf.png",
+    "static/media/proximanova_bold.otf": "/test-pizza/static/media/proximanova_bold.fcaab2524c5baabd71f6.otf",
+    "static/media/PizzaLogo.svg": "/test-pizza/static/media/PizzaLogo.cf6d3b6be905864076d6bda85444ef62.svg",
+    "static/media/shop.svg": "/test-pizza/static/media/shop.dcd5168086a25b3307ba9f5524ca6e70.svg",
+    "static/media/iconfinder_shopping-cart_2561279 1.svg": "/test-pizza/static/media/iconfinder_shopping-cart_2561279 1.d05720f2b474db2145233cd2ce1d4e91.svg",
+    "static/media/delete.svg": "/test-pizza/static/media/delete.7696257a3cd8715ab8e7d99d90872982.svg",
+    "index.html": "/test-pizza/index.html",
+    "static/media/dropdown.svg": "/test-pizza/static/media/dropdown.8a732a7211d0fa00bfd63712369e29cc.svg",
+    "main.f537bd3c.css.map": "/test-pizza/static/css/main.f537bd3c.css.map",
+    "main.340c4ae3.js.map": "/test-pizza/static/js/main.340c4ae3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f537bd3c.css",
+    "static/js/main.340c4ae3.js"
+  ]
+}
