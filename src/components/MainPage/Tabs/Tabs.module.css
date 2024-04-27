@@ -1,0 +1,16 @@
+.tab{
+    padding: 13px 25px;
+    color: var(--color-gray-black-type-2);
+    background-color: var(--color-light-gray-type-2);
+    border-radius: var(--border-radius-large);
+    font-size: var(--font-size-small);
+    line-height: 19.49px;
+    text-align: center;
+    transition: all 350ms linear;
+    cursor: pointer;
+}
+
+.tab__active{
+    color: var(--color-white);
+    background-color: var(--color-gray-black-type-3);
+}

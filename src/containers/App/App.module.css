@@ -1,0 +1,7 @@
+.wrapper{
+    max-width: var(--main-container-width);
+    margin: 43px auto 63px;
+    padding-bottom: 96px;
+    background-color: var(--color-white);
+    border-radius: var(--border-radius-medium);
+}
